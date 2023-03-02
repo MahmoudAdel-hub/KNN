@@ -1,2 +1,1 @@
-# KNN
-KNN Classifier
+# KNN From Scratch Using Class and Object
