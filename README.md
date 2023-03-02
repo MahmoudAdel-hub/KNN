@@ -2,4 +2,4 @@
 
 ## Note :
 When Using KNN 
-First of All you should scaling your Features because when calculating distance the feature with higher range will dominate on calculate distance and it will leads to misleading __bold__ results 
+First of All you should __scaling__ your Features because when calculating distance the feature with higher range will __dominate__ on calculating the distance and it will lead to misleading __results__
